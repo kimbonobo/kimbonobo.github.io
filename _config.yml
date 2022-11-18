@@ -1,9 +1,10 @@
 title: "my name is kimbonobo"
-tagline: "A jekyll theme that looks like a shell/terminal"
-description: "This is a preview of jekyll-shell-theme."
+tagline: "어서오세요."
+description: "만나서 반갑습니다. ^^!"
 github_username: tareqdandachi
-baseurl: "/jekyll-shell-theme"
+baseurl: "/kimbonobo"
 url: "https://kimbonobo.github.io"
+
 
 plugins:
   - jemoji
